@@ -1,0 +1,9 @@
+<map id="core::scene::Scene" name="core::scene::Scene">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,140,104"/>
+<area shape="rect" id="Node000002" href="$classscenes_1_1igame__scene_1_1_i_game_scene.html" title=" " alt="" coords="188,5,336,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,70,200,44,202,49,127,75"/>
+<area shape="rect" id="Node000003" href="$classscenes_1_1imenu__scene_1_1_i_menu_scene.html" title=" " alt="" coords="188,71,336,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,88,187,88,187,94,156,94"/>
+<area shape="rect" id="Node000004" href="$classscenes_1_1ishop__scene_1_1_i_shop_scene.html" title=" " alt="" coords="190,136,334,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,107,202,133,200,138,125,112"/>
+</map>

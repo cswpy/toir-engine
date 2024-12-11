@@ -1,0 +1,12 @@
+<map id="core::scene_manager::SceneManager" name="core::scene_manager::SceneManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="33,364,180,405"/>
+<area shape="rect" id="Node000002" href="$classcore_1_1scene_1_1_scene.html" title=" " alt="" coords="39,276,174,301"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,317,109,364,104,364,104,317"/>
+<area shape="rect" id="Node000003" href="$classcore_1_1scenetree_1_1_scene_tree.html" title=" " alt="" coords="15,187,198,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,228,109,275,104,275,104,228"/>
+<area shape="rect" id="Node000004" href="$classcore_1_1scenetree_1_1_node.html" title=" " alt="" coords="31,96,182,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="109,137,109,187,104,187,104,137"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="199,101,208,109,200,117,183,120,182,115,198,112,203,109,196,105"/>
+<area shape="rect" id="Node000005" href="$classcore_1_1gameobject_1_1_game_object.html" title=" " alt="" coords="5,5,208,31"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="109,46,109,96,104,96,104,46"/>
+</map>
