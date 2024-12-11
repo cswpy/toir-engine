@@ -29,7 +29,7 @@
       margin: 40px 0;
     }
     .image-gallery img {
-      max-width: 100%;
+      max-width: 70%;
       height: auto;
       margin: 20px auto;
       display: block;
@@ -101,12 +101,15 @@
     <h2>Engine Demo Video</h2>
     <p>Here is a YouTube video showcasing the engine and the game we made:</p>
     <iframe width="1455" height="719" src="https://www.youtube.com/embed/04nXGy8NIkM" title="Toir_Game_Engine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
   </section>
 
+
+
   <section class="image-gallery">
-    <h2>Images from the Repo</h2>
+    <h2>Engine Architecture</h2>
+    <img src="img/engine_arch.jpg" alt="The architecture diagram of the engine" />
+    <br>
+    <h2>Fate's Gambit</h2>
     <p>
       Below are a few images showing the demo game we made, called Fate's Gambit. The game's idea is from Evan Shi.
     </p>
@@ -121,10 +124,10 @@
   <div class="post-mortem">
     <h2>Game Engine Post-Mortem</h2>
     <p>
-        Building our game engine was an exciting and enjoyable project that allowed our team to explore the intricacies of engine development. However, we embarked on this journey without a comprehensive plan, which led to unclear goals and priorities. This lack of initial planning made managing our time and resources challenging. As the engine grew, we faced significant difficulties in refactoring and adding new functionalities due to a fragile codebase. Additionally, our conservative implementation approach, while ensuring stability, limited the engine’s flexibility and hindered innovation.
+        Building our game engine was an exciting and enjoyable project that allowed our team to explore the intricacies of engine development. However, we went into the development without detailed planning, which led to unclear goals and priorities. This lack of initial planning made managing our time and resources challenging. As the engine grew, we faced significant difficulties in refactoring and adding new functionalities due to a flaky codebase. Additionally, our implementation approach is relatively conservatice, while ensuring stability, limited the engine’s flexibility and required the game itself to implement much of the logic.
     </p>
     <p>
-        Choosing Dlang as our programming language further compounded these challenges, as the limited community support and scarce tutorials made troubleshooting and learning more difficult. Despite these obstacles, the project was a valuable learning experience that enhanced our technical skills and fostered strong team collaboration. We gained important insights into the importance of planning, architectural flexibility, and the impact of language choice on development. Overall, building the game engine was a fun and enriching endeavor that provided memorable moments and prepared us for future projects with improved strategies.
+        Choosing Dlang as our programming language further complicated things, as the limited community support and scarce resources made troubleshooting and developing more difficult. Despite these obstacles, the project was a valuable learning experience that gave us much insights into game engine development. We gained important insights into the importance of planning, architectural flexibility, and the impact of language choice on development. Overall, building the game engine was a fun and enriching endeavor that provided memorable moments and prepared us for future projects with improved strategies.
     </p>
 </div>
 
